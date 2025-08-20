@@ -1,2 +1,2 @@
 # Shell
-Shell Scripts for PR
+Shell Scripts
